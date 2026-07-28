@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  blob_id: MyString
+  storage_type: MyString
+  size: 1
+
+two:
+  blob_id: MyString
+  storage_type: MyString
+  size: 1
